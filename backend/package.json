@@ -1,0 +1,16 @@
+{
+  "name": "cart-one-backend",
+  "version": "1.0.0",
+  "description": "Node.js API for the Cart One shopping cart assignment.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "shopping-cart",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT"
+}
