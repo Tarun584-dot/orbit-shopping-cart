@@ -52,3 +52,9 @@ VITE_API_URL=http://localhost:4000
 - Passwords are plain text for assignment simplicity; production should hash passwords.
 - Authentication uses simple bearer tokens stored in memory.
 - With more time, I would add SQLite persistence, automated tests, and route-level validation middleware.
+
+## Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/1JfSsfDazBivvJvZ9yAE8Eh2PkJL94OYq/view?usp=sharing
